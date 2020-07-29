@@ -1,0 +1,3 @@
+.btn, .btn:active, .btn::after {
+  box-shadow: none;
+}
